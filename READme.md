@@ -58,6 +58,15 @@ JavaScript Interview Questions:
 + Difference between Props and States
 + Component Lifecycle methods
 + Difference between class component and functional component
++ What are controlled component and uncontrolled components
++ Pure component
++ Higher order component
++ Optimization options in react
+     - memo
+     - useMemo
+     - PureCompoent
+     - useCallback
++ Difference between useCallback vs usememo vs useRef
 + What are hooks
 + Difference between useState and useReducer
 + Difference between useState and useEffect
